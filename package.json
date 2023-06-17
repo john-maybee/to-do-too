@@ -7,11 +7,12 @@
     "node": "18.x"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
-    "@fontsource/roboto": "^4.5.8",
-    "@mui/icons-material": "^5.11.11",
-    "@mui/material": "^5.11.12",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/lobster": "^5.0.3",
+    "@fontsource/roboto": "^5.0.3",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.5",
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "cookie-session": "^2.0.0",
@@ -39,8 +40,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4",
-    "@babel/plugin-proposal-private-property-in-object": "^7.16.7"
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.7",
+    "nodemon": "^2.0.4"
   },
   "browserslist": {
     "production": [
